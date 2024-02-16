@@ -1,0 +1,39 @@
+.mndiv{
+	height: 100vh;
+	width: 100% ;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	backdrop-filter: blur(10px);
+
+	background-image: url(https://images.dunelm.com/30732001.jpg?$standardplayerdefault$&img404=noimagedefault);
+
+}
+.container{
+	height: 380px;
+	width: 490px;
+	box-shadow: 10px 10px 10px gray;
+	border-radius: 20px;
+	background-repeat: no-repeat;
+	background-image: url(https://img.freepik.com/free-photo/interesting-illustration-clean-metal-surface-with-button-with-copy-space_181624-43435.jpg);
+	background-size: cover;
+    margin-left: 19%;
+    margin-top: 10%;
+	
+}
+
+.h{
+	color: white;
+	margin-top: 30%;
+	font-size: 70px;
+	margin-left: 27%;
+	text-shadow: 5px 5px 5px black;
+
+
+}
